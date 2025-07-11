@@ -110,6 +110,11 @@ Project language: French (UI and user interactions).
 - **ESLint**: Code linting and formatting
 - **Drizzle Kit**: Database schema management
 
+### Deployment
+- **Vercel**: Serverless deployment platform configured
+- **GitHub**: Source code repository with automated workflows
+- **Vercel Functions**: API endpoints as serverless functions
+
 ## Deployment Strategy
 
 ### Build Process
